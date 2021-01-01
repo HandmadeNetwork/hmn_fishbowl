@@ -11,5 +11,3 @@
 ## How to upvote
 
 ~~This button here:~~ __The upvoting feature is broken at the moment. Use the thumbs up emoji instead for now.__
-
-![](https://github.com/AsafGartner/hmn_fishbowl/raw/main/upvote.png)
